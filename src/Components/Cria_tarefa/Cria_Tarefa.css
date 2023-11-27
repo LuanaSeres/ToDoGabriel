@@ -1,0 +1,14 @@
+.ReactContainer{
+    color: black;
+    display: flex;
+    gap: 15%;
+}
+
+.CriaTarefa{
+    background-color: #e2e2e2;
+}
+
+.TarefasCriadas{
+    background-color: #e2e2e2;
+    width: 150px;
+}
